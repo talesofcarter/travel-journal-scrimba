@@ -1,0 +1,45 @@
+/* header {
+  background: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 55px;
+}
+
+header > h1 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  font-family: Noto Sans JP;
+}
+
+article.journal-entry {
+  display: flex;
+  max-width: 370px;
+}
+
+article.journal-entry .main-image-container {
+  width: 125px;
+  height: 168px;
+  overflow: hidden;
+  border-radius: 5px;
+  flex-shrink: 0;
+  margin-right: 19px;
+}
+
+article.journal-entry .main-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.journal-entry > p {
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+
+.card-container {
+  max-width: 500px;
+} */
+
