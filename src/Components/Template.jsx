@@ -2,7 +2,7 @@ function Template(props) {
   return (
     <section>
       <div className="site-image-container">
-        <img className="site-image" src={`../images/${props.cardImg.src}`} />
+        <img className="site-image" src={`images/${props.cardImg.src}`} />
       </div>
 
       <div className="details-container">
